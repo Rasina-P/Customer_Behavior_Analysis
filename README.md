@@ -1,4 +1,4 @@
-# Customer_Behavior_Analysis
+# Customer_Shopping_Behavior_Analysis
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 📌 Project Overview
@@ -12,59 +12,52 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-your-repo/
-│── README.md
-│── images/
-│   └── git.jpg
 ## Project Workflow
-
-![Project Workflow](images/git.jpg)
-
-<p align="center">
-  <img src="images/git.jpg" width="800">
-</p>
-🛠️ How to Use This Project
-Clone the repository
-
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
-
-This file contains:
-
-Data Import
-
-Data exploration
-
-Data cleaning
-
-Connection to SQL Database
-
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
-
-Create a database in SQL
-
-Run Python code to load data into SQL database
-
-Open customer_behavior_sql_queries.sql
-
-Answer Business Questions using SQL Queries
-
-Connect the SQL Database to Power BI
-
-Open customer_behavior_dashboard.pbix
-
-Create interactive dashboard in Power BI
-
-Create Project Report and Presentation
-
-Create project report
-
-Build presentation deck using Gamma AI
+![Project Workflow](git.jpg)
 
 
+## 🛠️ How to Use This Project
+
+1. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+
+    This file contains:
+
+      - Data Import
+
+      - Data exploration
+
+      - Data cleaning
+
+      - Connection to SQL Database
+  
+2. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+
+      - Create a database in SQL
+
+      - Run Python code to load data into SQL database
+  
+      - Open **customer_behavior_sql_queries.sql**
+  
+      - Answer Business Questions using SQL Queries 
+      
+3. **Connect the SQL Database to Power BI**
+
+      - Open **customer_behavior_dashboard.pbix**
+   
+      - Create interactive dashboard in Power BI
+  
+4. **Create Project Report and Presentation**
+
+      - Create project report
+   
+      - Build presentation deck using Gamma AI
+
+## 📜 License
+
+MIT — feel free to fork, star, and use in your portfolio.
+
+💼 LinkedIn: [Rasina P](https://www.linkedin.com/in/rasina-p-data-analyst/)
+- Let’s connect professionally and grow your data career
 
 
-
-
-
+## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
